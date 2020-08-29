@@ -1,2 +1,0 @@
-# rtsite
-radical thinking website
